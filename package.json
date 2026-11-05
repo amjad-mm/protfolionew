@@ -1,0 +1,12 @@
+{
+  "name": "amjad-mm-portfolio",
+  "version": "1.0.0",
+  "description": "Amjad M.M — Full Stack Developer & Creative Technologist Portfolio",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "serve": "npx serve -l 4173 ."
+  },
+  "keywords": ["portfolio", "fullstack", "brutalist", "papercraft", "gsap"],
+  "author": "Amjad M.M",
+  "license": "MIT"
+}
